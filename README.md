@@ -5,4 +5,6 @@
 
 </div>
 
-<img src="scara.png" width="350">
+<div align="center">
+  <img src="./scara.png" width="350">
+</div>
