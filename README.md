@@ -5,4 +5,4 @@
 
 </div>
 
-<img width="435" height="435" alt="image" src="https://github.com/user-attachments/assets/2c5dc27e-9647-4ad2-a745-9b983209197a" />
+<img src="assets/scara.png" width="350">
