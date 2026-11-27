@@ -5,4 +5,4 @@
 
 </div>
 
-<img src="assets/scara.png" width="350">
+<img src="scara.png" width="350">
