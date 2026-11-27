@@ -1,3 +1,7 @@
-<img width="488" height="435" alt="image" src="https://github.com/user-attachments/assets/71cd1e9a-7878-4893-a8b0-522c8c1bc1db" />
 
-ok
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=7776A8&center=true&vCenter=true&width=600&lines=Every+other+day+im+wondering%2C+What's+a+human+being+gotta+be+like?;Whats+a+way+to+just+be+competent;These+sweet+instincts,;ruin+my+life.)](https://git.io/typing-svg)
+
+</div>
+
